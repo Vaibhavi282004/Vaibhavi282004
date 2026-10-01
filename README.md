@@ -1,5 +1,23 @@
 # 💫 About Me:
-I’m currently working on<br>→ Projects you are currently building or improving.<br>Example: your Python/ML projects, Django project, etc.<br>I’m looking to collaborate on<br>→ Types of projects you would like to work on with other developers.<br>Example: Python, AI/ML, Data Science, open-source projects.<br>I’m looking for help with<br>→ Technologies/topics where you are currently trying to improve and would appreciate guidance.<br>You can leave this blank if you don't need help with anything specific.<br>I’m currently learning<br>→ Technologies you are learning right now.<br>For you, this could include AWS, SQL, DSA, Machine Learning, etc.<br>Ask me about<br>→ Topics you're comfortable discussing with someone who visits your GitHub.<br>For example, Python, SQL, Machine Learning, Django.<br>Fun fact<br>→ Something casual about yourself. It doesn't have to be technical.<br>Example: “I enjoy exploring new technologies.”
+
+I’m currently working on<br>
+→ Beginner-friendly Cybersecurity and OT Security projects using Python and security monitoring concepts.
+
+I’m looking to collaborate on<br>
+→ Cybersecurity, Python, Networking, OT/ICS Security, and beginner-friendly open-source projects.
+
+I’m looking for help with<br>
+→ Learning Cybersecurity fundamentals, Network Security, and OT/ICS Security.
+
+I’m currently learning<br>
+→ Cybersecurity, Networking, Linux, Python, SQL, and OT/ICS Security fundamentals.
+
+Ask me about<br>
+→ Python, SQL, Networking basics, Cybersecurity fundamentals, and my projects.
+
+Fun fact<br>
+→ I enjoy learning new technologies by building practical projects.
+
 
 
 ## 🌐 Socials:
